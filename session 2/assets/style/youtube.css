@@ -1,0 +1,29 @@
+body{
+    background-image: url("../image/699965.jpg");
+    background-size: cover;
+    background-attachment:scroll;
+}
+body h1{
+    color: khaki;
+}
+.content{
+    background-color:gray;
+    width:100%;
+    padding:20px;
+    margin: 100px auto;
+}
+body p{
+    font-size: 25px;
+    color:orange;
+    font-family:cursive;
+    font-weight: bolder;
+}
+.yt{
+    align-content: center;
+}
+.yt p1{
+    color:red;
+    font-size: 25px;
+    text-decoration:dotted;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

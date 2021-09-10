@@ -1,0 +1,49 @@
+body{
+    background-color:teal;
+    margin:0px;
+    background-size: cover;
+    background-attachment:scroll;
+    }
+
+p{
+    color: darkgoldenrod;
+    text-decoration: underline;
+    font-size: 25px;
+    text-align: left;
+}
+.audio{
+    border: 1px solid blueviolet;
+    float: left;
+    padding-top: 10px;
+}
+.audio1{
+    border: 1px solid blueviolet;
+    float: left;
+    padding-top: 10px;
+}
+.video{
+    display: flex;
+    float: left;
+    padding-top: 10px;
+    height: 550px;
+    width: 500px;
+}
+.video p1{
+    color:orchid;
+    text-decoration: underline;
+    font-size: 25px;
+    float: center;
+}
+.video1{
+    display: flex;
+    float: left;
+    height: 500px;
+    width: 500px;
+    margin-top: 90px;
+}
+.video1 p1{
+    color:orchid;
+    text-decoration: underline;
+    font-size: 25px;
+    float: center;
+}
